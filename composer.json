@@ -1,0 +1,18 @@
+{
+  "name": "kalakotra/jcrop",
+  "description": "Cropping for SilverStripe. Cropp selected part of the image.",
+  "type": "silverstripe-module",
+  "homepage": "http://github.com/kalakotra/jcrop",
+  "keywords": ["silverstripe", "jcropp", "cropping"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name": "Amir Mehmedovic","email": "kalakotra@gmail.com"}
+  ],
+  "support": {
+    "issues": "https://github.com/kalakotra/jcrop/issues"
+  },
+  "require": {
+    "silverstripe/cms": "3.x",
+    "silverstripe/framework": "3.x"
+  }
+}

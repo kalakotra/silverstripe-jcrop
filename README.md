@@ -30,4 +30,4 @@ SilverStripe 3.x
  
 ## Maintainer contact
 
-[dany.ba](http://dany.ba)
+[kalakotra](kalakotra@gmail.com)
